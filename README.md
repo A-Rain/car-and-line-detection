@@ -108,7 +108,8 @@
 
 ### 如何训练
 
-在项目中我已经提供了训练好的HOG分类器和haar分类器，这两个xml文件分别在model文件夹下和model/adaboost文件夹下。
+在项目中我已经提供了训练好的HOG分类器和haar分类器，haar分类器在model/adaboost文件夹下，hog分类器上传太慢，我放到了CSDN下载专区里，链接如下：
+[HOG_SVM分类器](https://download.csdn.net/download/weixin_37762749/10489185)
 
 训练**HOG分类器**
 
